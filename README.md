@@ -9,14 +9,20 @@ My Tester's Portfolio
 
 ## Kursy
 #### [Coders Lab - szkoła IT](https://coderslab.pl/pl/kurs/tester-manualny/o-kursie) Kurs na testera manualnego
-#### Dzienny, dwutygodniowy kurs w trakcie którego:
-*
-## Certyfikaty
+#### [Dyplom[(https://drive.google.com/file/d/1m4wRsMrRVQogBov6b3vWWNeuBYiZMbXO/view?usp=sharing) oraz [suplement do dyplomu](https://drive.google.com/file/d/1729QDjJuJlWAnMryfiQy_B1JVfL9uZO4/view?usp=sharing)
+## Certyfikat
+#### [Certyfikat ISTQB N 15755/CTFL/2021](https://drive.google.com/drive/u/1/folders/1tZixmxsV4nSWn8PBTHP3BIVmK9BJxg2r)
 ## Narzędzia 
-### Jira
-### Testlink
+### * Jira
+### * Testlink
+
 ## Umiejętności
+
 ## Literatura
+
 ## Webinarium
+#### [Bazy danych w pracy testera - wprowadzenie](https://www.facebook.com/events/503041577357983/) Od laika do Automatyka 
+#### [Testowanie aplikacji mobilnych] (https://www.facebook.com/events/743698053212737/)
+
 ## Własna dokumentacja testowa
 ## Projekty
