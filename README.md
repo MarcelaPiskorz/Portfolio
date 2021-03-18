@@ -9,7 +9,7 @@ My Tester's Portfolio
 
 ## Kursy
 #### [Coders Lab - szkoła IT](https://coderslab.pl/pl/kurs/tester-manualny/o-kursie) Kurs na testera manualnego
-#### [Dyplom[(https://drive.google.com/file/d/1m4wRsMrRVQogBov6b3vWWNeuBYiZMbXO/view?usp=sharing) oraz [suplement do dyplomu](https://drive.google.com/file/d/1729QDjJuJlWAnMryfiQy_B1JVfL9uZO4/view?usp=sharing)
+#### [Dyplom ukończenia kursu](https://drive.google.com/file/d/1m4wRsMrRVQogBov6b3vWWNeuBYiZMbXO/view?usp=sharing) oraz [suplement do dyplomu](https://drive.google.com/file/d/1729QDjJuJlWAnMryfiQy_B1JVfL9uZO4/view?usp=sharing)
 ## Certyfikat
 #### [Certyfikat ISTQB N 15755/CTFL/2021](https://drive.google.com/drive/u/1/folders/1tZixmxsV4nSWn8PBTHP3BIVmK9BJxg2r)
 ## Narzędzia 
