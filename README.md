@@ -13,6 +13,7 @@ My Tester's Portfolio
 ## Certyfikat
 #### [Certyfikat ISTQB N 15755/CTFL/2021](https://drive.google.com/drive/u/1/folders/1tZixmxsV4nSWn8PBTHP3BIVmK9BJxg2r)
 ## Narzędzia 
+
 ### * Jira
 ### * Testlink
 
@@ -22,7 +23,7 @@ My Tester's Portfolio
 
 ## Webinarium
 #### [Bazy danych w pracy testera - wprowadzenie](https://www.facebook.com/events/503041577357983/) Od laika do Automatyka 
-#### [Testowanie aplikacji mobilnych] (https://www.facebook.com/events/743698053212737/)
+#### [Testowanie aplikacji mobilnych](https://www.facebook.com/events/743698053212737/)Od laika do Automatyka
 
 ## Własna dokumentacja testowa
 ## Projekty
