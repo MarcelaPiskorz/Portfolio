@@ -28,3 +28,4 @@ My Tester's Portfolio
 ## Własna dokumentacja testowa
 ### [Zgłoszenia błędów](https://drive.google.com/drive/folders/1tZixmxsV4nSWn8PBTHP3BIVmK9BJxg2r)
 ## Projekty
+
