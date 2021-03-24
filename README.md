@@ -26,4 +26,5 @@ My Tester's Portfolio
 #### [Testowanie aplikacji mobilnych](https://www.facebook.com/events/743698053212737/)Od laika do Automatyka
 
 ## Własna dokumentacja testowa
+### [Zgłoszenia błędów](https://drive.google.com/drive/folders/1tZixmxsV4nSWn8PBTHP3BIVmK9BJxg2r)
 ## Projekty
