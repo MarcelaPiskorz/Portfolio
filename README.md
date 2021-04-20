@@ -16,6 +16,7 @@ My Tester's Portfolio
 
 ### * Jira
 ### * Testlink
+### * Postman
 
 ## Umiejętności
 
@@ -24,8 +25,9 @@ My Tester's Portfolio
 ## Webinarium
 #### [Bazy danych w pracy testera - wprowadzenie](https://www.facebook.com/events/503041577357983/) Od laika do Automatyka 
 #### [Testowanie aplikacji mobilnych](https://www.facebook.com/events/743698053212737/)Od laika do Automatyka
-
+#### Testowanie REST API. Bartosz Kita 09.04.2021.
 ## Własna dokumentacja testowa
-### [Zgłoszenia błędów](https://drive.google.com/file/d/1_IoIERpTGLD00r8zAMtm8mt9u11dOxwT/view?usp=sharing)
+### [Zgłoszenia błędów](https://drive.googlehttps://drive.google.com/file/d/1dRaiVILwkgOmSJsiRX1PYvwsjKx0HHnm/view?usp=sharing.com/file/d/1_IoIERpTGLD00r8zAMtm8mt9u11dOxwT/view?usp=sharing)
+### [Testcase](https://drive.google.com/file/d/1dRaiVILwkgOmSJsiRX1PYvwsjKx0HHnm/view?usp=sharing) dla aplikacji Vinted
 ## Projekty
 
